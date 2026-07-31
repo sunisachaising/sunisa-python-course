@@ -13,11 +13,11 @@
     "github.copilot.enable": {
         "*": false,
         "plaintext": false,
-        "markdown": false,
+        "markdown": true,
         "scminput": false
     },
     // Prevents inline suggestions from appearing.
-    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.enabled": true,
     // Disables the parameter hints that pop up when you type a function signature.
     "editor.parameterHints.enabled": false,
     // Turns off suggestions based on the words in your current document.
